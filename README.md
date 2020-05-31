@@ -1,0 +1,2 @@
+# contract
+hzero测试
